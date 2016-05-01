@@ -1,0 +1,22 @@
+{
+  "name": "lsm9ds0-bus",
+  "version": "0.0.1",
+  "description": "i2c-bus node interface for lsm9ds0 intertial sensor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattleacademy/lsm9ds0-bus.git"
+  },
+  "keywords": [
+    "lsm9ds0"
+  ],
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/lsm9ds0-bus/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/lsm9ds0-bus#readme",
+  "dependencies": {
+    "i2c-bus": "^1.0.3"
+  }
+}
